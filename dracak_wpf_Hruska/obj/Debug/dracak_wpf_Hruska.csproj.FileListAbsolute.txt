@@ -1,0 +1,80 @@
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe.config
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\MainWindow.g.cs
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\App.g.cs
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.cache
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.lref
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.pdb
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\MainWindow.baml
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.g.resources
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.exe
+c:\users\david\documents\visual studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\dracak_wpf_Hruska\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.xml
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe.config
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.pdb
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.dll
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.xml
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csprojResolveAssemblyReference.cache
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\MainWindow.g.cs
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\App.g.cs
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.cache
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.lref
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\MainWindow.baml
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.g.resources
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.Properties.Resources.resources
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csproj.GenerateResource.Cache
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.exe
+D:\hruskda14\dracak_wpf_Hruska-master\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.pdb
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe.config
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.exe
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.pdb
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.pdb
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.dll
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.xml
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csprojResolveAssemblyReference.cache
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\MainWindow.g.cs
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\App.g.cs
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.cache
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.lref
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\MainWindow.baml
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.g.resources
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.Properties.Resources.resources
+G:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csproj.GenerateResource.Cache
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe.config
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.exe
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.pdb
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csprojResolveAssemblyReference.cache
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\MainWindow.g.cs
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\App.g.cs
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.cache
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.lref
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.pdb
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.dll
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.xml
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\MainWindow.baml
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.g.resources
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.Properties.Resources.resources
+F:\dracak_wpf_Hruska 14.3\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csproj.GenerateResource.Cache
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe.config
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.exe
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\bin\Debug\dracak_wpf_Hruska.pdb
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.dll
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\bin\Debug\WpfAnimatedGif.xml
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csprojResolveAssemblyReference.cache
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\MainWindow.g.cs
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\App.g.cs
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.cache
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska_MarkupCompile.lref
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\MainWindow.baml
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.g.resources
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.Properties.Resources.resources
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.csproj.GenerateResource.Cache
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.exe
+C:\Users\David\Source\Repos\Dracak_Hruska\dracak_wpf_Hruska\obj\Debug\dracak_wpf_Hruska.pdb
